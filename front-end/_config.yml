@@ -1,6 +1,6 @@
 # Where things are
 source              : .
-destination         : ./../src/main/resources/templates
+destination         : ./../src/main/resources/static
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
